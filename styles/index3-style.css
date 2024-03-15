@@ -1,0 +1,22 @@
+p {
+    margin: 5px;
+    color: brown;
+}
+* {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    
+}
+.prva {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px;
+    color: blueviolet;
+}
+.druga {
+    margin: 25px;
+    color: blue;
+}
+.treća {
+    margin: 25px;
+    color: green;
+}
